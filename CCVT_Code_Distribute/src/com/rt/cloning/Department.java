@@ -1,5 +1,6 @@
 package com.rt.cloning;
 //IMPLEMENTING CLONING COMMENT ADDED
+//EXAMPLE
 
 public class Department implements Cloneable{
 	
